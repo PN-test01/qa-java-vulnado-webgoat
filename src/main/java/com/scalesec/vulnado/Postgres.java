@@ -59,6 +59,7 @@ public class Postgres {
     }
 
     // Java program to calculate MD5 hash value
+    /*add new line to move the vulnerable code of line l67 to l68*/
     public static String md5(String input)
     {
         try {
